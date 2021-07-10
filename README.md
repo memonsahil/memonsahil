@@ -1,4 +1,4 @@
-### Hello!
+## Hello!
 
-- :computer: Currently working on [CS958](https://github.com/memonsahil/CS958).
-- :hourglass_flowing_sand: Learning Solidity, Ethereum, React & Java.
+- :computer: Currently working on uni projects and other stuff.
+- :hourglass_flowing_sand: Learning React, Java & Solidity.
