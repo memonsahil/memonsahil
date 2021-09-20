@@ -20,7 +20,11 @@ I create projects in JavaScript, mainly using React and React Native. I also wri
 
 - [blog-post](https://github.com/memonsahil/blog-post)
 
+- [blog-post-server](https://github.com/memonsahil/blog-post-server)
+
 - [location-tracking](https://github.com/memonsahil/location-tracking)
+
+- [location-tracking-server](https://github.com/memonsahil/location-tracking-server)
 
 ### Java
 
