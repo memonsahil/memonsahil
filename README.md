@@ -18,5 +18,3 @@ I am currently learning Python for developing machine learning apps.
 - [blog-post-server](https://github.com/memonsahil/blog-post-server)
 - [location-tracking](https://github.com/memonsahil/location-tracking)
 - [location-tracking-server](https://github.com/memonsahil/location-tracking-server)
-
-&copy; [memonsahil](https://github.com/memonsahil)
