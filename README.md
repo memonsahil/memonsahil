@@ -1,14 +1,12 @@
 ## Hello!
 
-I create projects in JavaScript, mainly using React and React Native. I also write code in Java and C++.
-I am currently learning Python for developing machine learning apps.
+I create projects in JavaScript, mainly using React and React Native.
 
 ### React
 
 - [crypto-tracker](https://github.com/memonsahil/crypto-tracker)
 - [jaywalking](https://github.com/memonsahil/jaywalking)
 - [react-dapp](https://github.com/memonsahil/react-dapp)
-- [letting-dapp](https://github.com/memonsahil/letting-dapp)
 
 ### React Native
 
