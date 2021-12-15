@@ -6,7 +6,6 @@ I create projects in JavaScript using React and React Native.
 
 - [crypto-tracker](https://github.com/memonsahil/crypto-tracker)
 - [jaywalking](https://github.com/memonsahil/jaywalking)
-- [shopping-cart](https://github.com/memonsahil/shopping-cart)
 
 ### React Native
 
